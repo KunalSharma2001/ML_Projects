@@ -14,4 +14,3 @@ Machine Learning is fun and here are some of the Projects that I did for the Bei
                         5. Sklearn
                         5. Scipy
                         6. Plotly - express, io, graphn_objects
-    
